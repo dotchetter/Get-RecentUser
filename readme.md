@@ -32,10 +32,10 @@ Also, feel free to edit the logic in function Get-RecentUser if you need your fi
 
 
 # Need help?
-Run `Get-Help | .\Get-RecentUser.ps1`
+Run `Get-Help .\Get-RecentUser.ps1`
 
-For examples, run `Get-Help | .\Get-RecentUser.ps1 -examples`
+For examples, run `Get-Help .\Get-RecentUser.ps1 -examples`
 
-For full help page, run `Get-Help | .\Get-RecentUser.ps1 -full`
+For full help page, run `Get-Help .\Get-RecentUser.ps1 -full`
 
 Any further questions can be emailed to me directly at dotchetter@protonmail.ch 
